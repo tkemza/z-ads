@@ -29,7 +29,7 @@ This toolkit contains materials that can be potentially damaging or dangerous fo
 
 This Tool is made for educational purposes only. Do not attempt to violate the law with anything contained here. If this is your intention, then Get the hell out of here!</b</p>
 
-<h2 align="center"><b>The creator will not be responsible for the consequences caused by this tool!</b</h2>
+<h2 align="center"><b>The creator will not be responsible for the consequences caused by this tool!</b></h2>
 
 ## Z-ADS
 
