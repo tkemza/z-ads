@@ -31,8 +31,6 @@ This Tool is made for educational purposes only. Do not attempt to violate the l
 
 <h2 align="center"><b>The creator will not be responsible for the consequences caused by this tool!</b</h2>
 
-<br>
-<h4 align="left">
 ## Z-ADS
 
 Alternate Data Streams (Z-ADS) are a feature of the NTFS (New Technology File System) that allows files to contain multiple data streams. In addition to the primary data stream where the actual content of the file is stored, NTFS allows for additional, hidden streams. These are not visible through traditional file browsing tools but can be accessed and manipulated by special applications or commands.
@@ -67,7 +65,7 @@ To compile the tool, ensure that you have the necessary libraries and headers. Y
 2. Use the provided `Makefile` (if available) or manually compile using the following example command:
 
 ```bash
-cl ads_tool.cpp /link shlwapi.lib crypt32.lib pthreadVC2.lib zlib.lib
+    cl ads_tool.cpp /link shlwapi.lib crypt32.lib pthreadVC2.lib zlib.lib
 ```
 
 ## Usage
@@ -155,4 +153,3 @@ In summary, Alternate Data Streams (ADS) are a powerful feature of the NTFS file
   <a href="https://github.com/tkemza" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
   <a href="https://proton.me/tkemaz.git" target="_blank"><img src="https://img.shields.io/badge/Proton-blue?style=for-the-badge&logo=proton"></a>
 </p>
-</h4>
