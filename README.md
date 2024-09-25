@@ -32,7 +32,7 @@ This Tool is made for educational purposes only. Do not attempt to violate the l
 <h2 align="center"><b>The creator will not be responsible for the consequences caused by this tool!</b</h2>
 
 <br>
-<h4>
+<h4 align="left">
 ## Z-ADS
 
 Alternate Data Streams (Z-ADS) are a feature of the NTFS (New Technology File System) that allows files to contain multiple data streams. In addition to the primary data stream where the actual content of the file is stored, NTFS allows for additional, hidden streams. These are not visible through traditional file browsing tools but can be accessed and manipulated by special applications or commands.
